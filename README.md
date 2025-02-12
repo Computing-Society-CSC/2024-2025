@@ -1,38 +1,32 @@
-# Computing Society - Year [Year]
-
-Welcome to the [Year] repository for the Computing Society (CSC). This repository serves as an organized hub for all sessions, projects, and featured events throughout the year.
-
-## Table of Contents
-- [Regular Sessions](#regular-sessions)
-- [Featured Sessions](#featured-sessions)
-- [Projects](#projects)
-- [Members](#members)
+# Computing Society - Year 2024-2025
+This repository serves as an organized hub for all sessions, projects, and featured events throughout the year.
 
 ## Regular Sessions
 Here, you can find links to the repositories and details for regular sessions held throughout the year.
 
-1. [Session 1: [Session Title]](link_to_session_1_repo)
-2. [Session 2: [Session Title]](link_to_session_2_repo)
-3. [Session 3: [Session Title]](link_to_session_3_repo)
-4. [Session 4: [Session Title]](link_to_session_4_repo)
+1. [Web Development](https://github.com/Computing-Society-CSC/web-dev-series-2024) host by Richard Gu 26'
+2. Assembly Language through games host by Evan Liang 25'
 
 ## Featured Sessions
 Featured sessions that are special or in-depth sessions.
 
-1. [Featured Session 1: [Session Title]](link_to_featured_session_1_repo)
-2. [Featured Session 2: [Session Title]](link_to_featured_session_2_repo)
+1. Frontend Development host by Shane Xiang 26'
 
 ## Projects
 Here, you can find links to the various projects taken up by CSC members.
 
-1. [Project 1: [Project Title]](link_to_project_1_repo)
-2. [Project 2: [Project Title]](link_to_project_2_repo)
+1. [ArcWeb](https://github.com/Computing-Society-CSC/ArcWeb) by Gorden Liu 26'
+2. [MiniArchive for school newspaper](https://github.com/Computing-Society-CSC/MiniArchive) by Richard Gu 26'
+3. [Drop! Iron Pipe](https://github.com/Computing-Society-CSC/iron-pipe-open)
+4. [Webird](https://github.com/Computing-Society-CSC/webird-open)
+5. [another project](asdjkldsakjlwakd) by Someone (Guys, add them yourself)
 
 ## Members
 Here is the list of people involved in the Computing Society this year:
 
-1. [Name - Role/Title]
-2. [Name - Role/Title]
-3. [Name - Role/Title]
+1. Richard Gu 26' - leader
+2. Evan Liang 25' - leader
+3. Gorden Liu 26' - Kernel
 4. [Name - Role/Title]
+5. (Guys, add them yourself)
 
