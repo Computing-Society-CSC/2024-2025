@@ -6,11 +6,13 @@ Here, you can find links to the repositories and details for regular sessions he
 
 1. [Web Development](https://github.com/Computing-Society-CSC/web-dev-series-2024) host by Richard Gu 26'
 2. Assembly Language through games host by Evan Liang 25'
+3. [Langgaph](https://github.com/Computing-Society-CSC/langgraph-series-2024) host by Richard Gu 26'
 
 ## Featured Sessions
 Featured sessions that are special or in-depth sessions.
 
 1. Frontend Development host by Shane Xiang 26'
+2. LLMs using ollama host by Gorden Liu 26'
 
 ## Projects
 Here, you can find links to the various projects taken up by CSC members.
