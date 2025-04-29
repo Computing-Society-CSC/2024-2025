@@ -22,7 +22,9 @@ Here, you can find links to the various projects taken up by CSC members from th
 2. [MiniArchive for school newspaper](https://github.com/Computing-Society-CSC/MiniArchive) by Richard Gu 26'
 3. [Drop! Iron Pipe](https://github.com/Computing-Society-CSC/iron-pipe-open)
 4. [Webird](https://github.com/Computing-Society-CSC/webird-open)
-5. Enhanced Booking System and special version for Hotspot
+5. ClioCard: turning history learning into a game by langgraph, fastapi, and Vue.js (will be opensource later)
+6. Enhanced Booking System and special version for Hotspot by Hattie Wu 25' and Richard Xu 27'
+
 
 ## Members
 Here is the list of people involved in the Computing Society this year:
