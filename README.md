@@ -23,7 +23,6 @@ Here, you can find links to the various projects taken up by CSC members from th
 3. [Drop! Iron Pipe](https://github.com/Computing-Society-CSC/iron-pipe-open)
 4. [Webird](https://github.com/Computing-Society-CSC/webird-open)
 5. Enhanced Booking System and special version for Hotspot
-6. [another project](asdjkldsakjlwakd) by Someone (Guys, add them yourself)
 
 ## Members
 Here is the list of people involved in the Computing Society this year:
