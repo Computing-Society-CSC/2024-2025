@@ -13,22 +13,28 @@ Featured sessions that are special or in-depth sessions.
 
 1. Frontend Development host by Shane Xiang 26'
 2. LLMs using ollama host by Gorden Liu 26'
+3. Introduction to transformers and prompt engineering by Harry Cao 27'
 
 ## Projects
-Here, you can find links to the various projects taken up by CSC members.
+Here, you can find links to the various projects taken up by CSC members from this year (or before).
 
 1. [ArcWeb](https://github.com/Computing-Society-CSC/ArcWeb) by Gorden Liu 26'
 2. [MiniArchive for school newspaper](https://github.com/Computing-Society-CSC/MiniArchive) by Richard Gu 26'
 3. [Drop! Iron Pipe](https://github.com/Computing-Society-CSC/iron-pipe-open)
 4. [Webird](https://github.com/Computing-Society-CSC/webird-open)
-5. [another project](asdjkldsakjlwakd) by Someone (Guys, add them yourself)
+5. Enhanced Booking System and special version for Hotspot
+6. [another project](asdjkldsakjlwakd) by Someone (Guys, add them yourself)
 
 ## Members
 Here is the list of people involved in the Computing Society this year:
 
 1. Richard Gu 26' - leader
 2. Evan Liang 25' - leader
-3. Gorden Liu 26' - Kernel
-4. [Name - Role/Title]
-5. (Guys, add them yourself)
+3. Harry Cao 27' - Kernel (next generation of leader)
+4. Richard Xu 27' - Kernel (next generation of leader)
+5. Hattie Wu 25' - Kernel
+6. Gorden Liu 26' - Kernel
+7. Roy Zhang 26' - Member
+8. Shane Xiang 26' - Kernel
+9. other people who are not quite active
 
