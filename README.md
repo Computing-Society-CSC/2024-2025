@@ -24,6 +24,10 @@ Here, you can find links to the various projects taken up by CSC members from th
 4. [Webird](https://github.com/Computing-Society-CSC/webird-open)
 5. ClioCard: turning history learning into a game by langgraph, fastapi, and Vue.js (will be opensource later)
 6. Enhanced Booking System and special version for Hotspot by Hattie Wu 25' and Richard Xu 27'
+7. [6502 retro computer project](https://github.com/Computing-Society-CSC/6502-playground)
+   - [C SDK](https://github.com/Computing-Society-CSC/llvm-mos-sdk)
+   - [Rust SDK](https://github.com/Computing-Society-CSC/6502fun-rust)
+   - [Playground/Schematics](https://github.com/Computing-Society-CSC/6502-playground)
 
 
 ## Members
